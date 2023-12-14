@@ -1,0 +1,112 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SpringbootMusicPlusApplication",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.SpringbootMusicPlusApplication",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "AESUtil",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.AESUtil",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "AESUtils",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.AESUtils",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "Base64Utils",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.Base64Utils",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "DESUtils",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.DESUtils",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "DateFormatUtil",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.DateFormatUtil",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "DateUtil",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.DateUtil",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "Formatter",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.Formatter",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "MD5Utils",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.MD5Utils",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "RSAUtils",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.RSAUtils",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "Sha1Utils",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.Sha1Utils",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "TimeUtil",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.TimeUtil",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "UUIDUtil",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.UUIDUtil",
+            "projectName": "springboot-music-plus"
+        },
+        {
+            "type": "java",
+            "name": "WindowQpsControl",
+            "request": "launch",
+            "mainClass": "com.springboot.springbootmusicplus.common.utils.WindowQpsControl",
+            "projectName": "springboot-music-plus"
+        }
+    ]
+}
